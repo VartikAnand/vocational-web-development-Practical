@@ -1,4 +1,4 @@
-1. [Create a simple HTML form and accept the user name and display the name through PHP echo statement.](#create-a-simple-html-form-and-accept-the-user-name-and-display-the-name-through-php-echo-statement)
+1. [Create a simple HTML form and accept the user name and display the name through PHP echo statement.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/01)
 
 2. [Write a PHP script to demonstrate arithmetic operators, comparison operators, and logical operators.](#write-a-php-script-to-demonstrate-arithmetic-operators-comparison-operators-and-logical-operators)
 
