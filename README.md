@@ -3,7 +3,7 @@
 Welcome to the Vocational Web Development Practical for BCA final year. Below are the list of questions with links to their solutions:
 
 1. [Create a simple HTML form and accept the user name and display the name through PHP echo statement.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/01)
-2. [Write a PHP script to demonstrate arithmetic operators, comparison operators, and logical operators.](2_arithmetic_comparison_logical_operators.php)
+2. [Write a PHP script to demonstrate arithmetic operators, comparison operators, and logical operators.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/02_arithmetic_comparison_logical_operators)
 3. [Write a PHP Script to input marks, generate results, and display grades.](3_input_marks_generate_results.php)
 4. [Write a PHP Script for addition of two 2x2 matrices.](4_addition_of_matrices.php)
 5. [Write a PHP script to obtain the factorial of a number using the function.](5_factorial_of_number.php)
