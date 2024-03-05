@@ -29,3 +29,6 @@ The aim of this exercise is to create a simple HTML form that accepts the user's
 </body>
 </html>
 ```
+## Output
+
+![Output](1.png)
