@@ -7,7 +7,7 @@
 <body>
     <center>
     <h2>Grade Calculator</h2>
-    <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+    <form method="post" action="">
         <label for="marks">Enter Marks:</label>
         <input type="text" name="marks" id="marks" placeholder="Enter marks separated by comma" required>
         <input type="submit" name="submit" value="Submit">
