@@ -1,13 +1,7 @@
 <!-- 6. Write a PHP script to demonstrate string, date and math functions. -->
-
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Script Demo</title>
+   
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,7 +25,7 @@
 <?php
 
 // String functions
-$string = "Hello, World!";
+$string = "hI Vartik";
 echo "<code>Original String: $string</code>";
 
 // String length

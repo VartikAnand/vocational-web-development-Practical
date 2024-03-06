@@ -1,0 +1,70 @@
+<!-- 7. Create a student registration form using a text box, check box, radio button, select, and submit button. And display user-inserted value on the new PHP page -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Registration Form</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    table {
+      width: 50%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+<center>
+  
+    <form action="data.php" method="post">
+      <table>
+        <tr>
+          <th><label for="name">Name:</label></th>
+          <td><input type="text" name="name" id="name" required></td>
+        </tr>
+        <tr>
+          <th><label>Gender:</label></th>
+          <td>
+            <input type="radio" name="gender" value="male" id="male" required>
+            <label for="male">Male</label>
+            <input type="radio" name="gender" value="female" id="female" required>
+            <label for="female">Female</label>
+          </td>
+        </tr>
+        <tr>
+          <th><label for="course">Select Course:</label></th>
+          <td>
+            <select name="course" id="course" required>
+              <option value="math">Math</option>
+              <option value="science">Science</option>
+              <option value="history">History</option>
+            </select>
+          </td>
+        </tr>
+        <tr>
+          <th><label>Choose Clubs:</label></th>
+          <td>
+            <input type="checkbox" name="clubs[]" value="sports" id="sports">
+            <label for="sports">Sports</label>
+            <input type="checkbox" name="clubs[]" value="music" id="music">
+            <label for="music">Music</label>
+            <input type="checkbox" name="clubs[]" value="art" id="art">
+            <label for="art">Art</label>
+          </td>
+        </tr>
+      </table>
+  
+      <input type="submit" value="Submit">
+    </form>
+</center>
+
+</body>
+</html>
