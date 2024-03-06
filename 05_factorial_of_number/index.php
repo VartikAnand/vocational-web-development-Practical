@@ -16,22 +16,7 @@
         border-radius: 5px;
         background-color: #f9f9f9;
     }
-    input[type="number"] {
-        width: 100%;
-        padding: 8px;
-        margin: 5px 0;
-        box-sizing: border-box;
-    }
-    input[type="submit"] {
-        width: 100%;
-        padding: 10px;
-        margin-top: 10px;
-        background-color: #4CAF50;
-        color: white;
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-    }
+
     .result {
         margin-top: 20px;
         font-weight: bold;
