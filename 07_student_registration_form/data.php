@@ -1,8 +1,6 @@
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Form Data</title>
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -26,9 +24,9 @@
     <?php
       if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Sanitize and display form data
-        $name = htmlspecialchars($_POST["name"]);
-        $gender = htmlspecialchars($_POST["gender"]);
-        $course = htmlspecialchars($_POST["course"]);
+        $name = $_POST["name"];
+        $gender =$_POST["gender"];
+        $course = $_POST["course"];
         $clubs = isset($_POST["clubs"]) ? implode(", ", $_POST["clubs"]) : "";
         // Display the form data in a table
         echo "<h2>Form Data:</h2>";
