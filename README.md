@@ -8,7 +8,7 @@ Welcome to the Vocational Web Development Practical for BCA final year. Below ar
 4. [Write a PHP Script for addition of two 2x2 matrices.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/04_addition_of_matrices)
 5. [Write a PHP script to obtain the factorial of a number using the function.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/05_factorial_of_number)
 6. [Write a PHP script to demonstrate string, date, and math functions.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/06_string_date_math_functions)
-7. [Create a student registration form using a text box, check box, radio button, select, and submit button. And display user-inserted value on the new PHP page.](7_student_registration_form.php)
+7. [Create a student registration form using a text box, check box, radio button, select, and submit button. And display user-inserted value on the new PHP page.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/07_student_registration_form)
 8. [Write two different PHP scripts to demonstrate passing variables through a URL.](8_passing_variables_through_url.php)
 9. [Write two different PHP scripts to demonstrate passing variables with sessions.](9_passing_variables_with_sessions.php)
 10. [Write PHP script to demonstrate passing variables with cookies.](10_passing_variables_with_cookies.php)
