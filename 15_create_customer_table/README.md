@@ -3,9 +3,6 @@ Create a customer table in MySQL with cust_no, cust_name, item_purchased, and mo
 ## Code
 
 ```html
-
-
-```
 -- Create the customer table
 CREATE TABLE customer (
     cust_no INT PRIMARY KEY,
@@ -27,6 +24,9 @@ VALUES
     (8, 'Grace Taylor', 'Product D', '666-555-4444'),
     (9, 'Henry Turner', 'Product A', '333-222-1111'),
     (10, 'Ivy White', 'Product B', '222-333-4444');
+
+```
+
 
 
 ### mysql query (Optionally)
