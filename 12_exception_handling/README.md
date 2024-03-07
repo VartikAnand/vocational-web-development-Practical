@@ -24,10 +24,7 @@ try {
 } catch (Exception $e) {
     // Catch and handle the exception
     echo "Error: " . $e->getMessage();
-} finally {
-    // Code in the finally block will be executed regardless of whether an exception occurred or not
-    echo "<br>Finally block executed.";
-}
+} 
 ?>
 
 
