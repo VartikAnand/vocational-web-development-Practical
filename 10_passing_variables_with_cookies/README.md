@@ -41,6 +41,6 @@ if (isset($_COOKIE['user_variable'])) {
 ![Output](1.png)
 
 
-### refresh the current page to see the cookie data
+### Refresh the current page to see the cookie data
 
 ![Output](2.png)
