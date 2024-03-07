@@ -11,9 +11,7 @@
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required>
 
-        <label for="age">Age:</label>
-        <input type="number" id="age" name="age" required>
-
+     
         <input type="submit" value="Post Submit">
     </form>
 
@@ -24,9 +22,7 @@
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>
 
-    <label for="age">Age:</label>
-    <input type="number" id="age" name="age" required>
-
+  
     <input type="submit" value="Get Submit">
 </form>
 

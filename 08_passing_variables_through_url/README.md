@@ -14,9 +14,7 @@
         <label for="name">Name:</label>
         <input type="text" id="name" name="name" required>
 
-        <label for="age">Age:</label>
-        <input type="number" id="age" name="age" required>
-
+     
         <input type="submit" value="Post Submit">
     </form>
 
@@ -27,14 +25,13 @@
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required>
 
-    <label for="age">Age:</label>
-    <input type="number" id="age" name="age" required>
-
+  
     <input type="submit" value="Get Submit">
 </form>
 
 </body>
 </html>
+
 
 
 ```
@@ -46,14 +43,10 @@
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $name = $_POST['name'];
-    $age =$_POST['age'];
 
     echo "<h2>POST Result</h2>";
     echo "<p>Name: $name</p>";
-    echo "<p>Age: $age</p>";
-} else {
-    echo "<p>No data received.</p>";
-}
+} 
 ?>
 
 
@@ -65,18 +58,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 ```html
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "GET") {
-    // Sanitize input
     $name = $_GET['name'];
-    $age = $_GET['age'];
 
     echo "<h2>GET Result</h2>";
     echo "<p>Name: $name</p>";
-    echo "<p>Age: $age</p>";
-} else {
-    echo "<p>No data received.</p>";
-}
+} 
 ?>
-
 
 ```
 ## Output
