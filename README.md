@@ -16,7 +16,7 @@ Welcome to the Vocational Web Development Practical for BCA final year. Below ar
 12. [Write PHP script to demonstrate exceptional handling.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/12_exception_handling)
 13. [Write a PHP script to connect the MySQL server from your website.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/13_connect_mysql_server)
 14. [Create EMP table with emp_no, emp_name, designation, and salary. Write a program to read employee information from the EMP table and display all this information in the PHP page.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/14_display_employee_info)
-15. [Create a customer table in MySQL with cust_no, cust_name, item_purchased, and mob no, and insert 10 records into it.](15_create_customer_table.php)
+15. [Create a customer table in MySQL with cust_no, cust_name, item_purchased, and mob no, and insert 10 records into it.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/15_create_customer_table)
 16. [Write a program to read customer information from the customer table and display all this information in table format on a PHP page.](16_display_customer_info.php)
 17. [Design a web form in PHP to input values for the customer record and insert the record in the customer table as a tuple.](17_insert_customer_record.php)
 18. [Design an "update" web form to edit the name of the customer to "Bob" with cust_no.](18_update_customer_record.php)
