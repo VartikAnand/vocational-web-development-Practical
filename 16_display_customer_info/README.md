@@ -3,7 +3,7 @@
 
 ## Code
 
-```html
+```PHP
 
 <?php
 
