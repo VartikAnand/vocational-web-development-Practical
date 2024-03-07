@@ -1,5 +1,5 @@
 # Aim
-<!-- Write a PHP script to connect the MySQL server from your website -->
+Write a PHP script to connect the MySQL server from your website 
 
 ## Code
 
