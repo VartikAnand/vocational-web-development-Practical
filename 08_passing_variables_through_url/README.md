@@ -71,10 +71,13 @@ if ($_SERVER["REQUEST_METHOD"] == "GET") {
 
 ![Output](1.png)
 
-### post.php Output
+## Output
+
+### post.php 
 
 ![Output](2.png)
+## Output
 
-### get.php Output
+### get.php 
 
 ![Output](3.png)
