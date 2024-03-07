@@ -1,6 +1,5 @@
 # Aim
-5. Write a PHP script to obtain the factorial of a number using the function
-
+08 . Write two different PHP scripts to demonstrate passing variables through a URL
 ## Code
 
 ### Index.php
