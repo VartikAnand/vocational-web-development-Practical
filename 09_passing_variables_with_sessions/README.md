@@ -1,5 +1,5 @@
 # Aim
-5. Write a PHP script to obtain the factorial of a number using the function
+<!-- 09 Write two different PHP scripts to demonstrate passing variables with sessions. -->
 
 ## Code
 ### index.php
