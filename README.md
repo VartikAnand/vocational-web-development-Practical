@@ -2,7 +2,7 @@
 
 Welcome to the Vocational Web Development Practical for BCA final year. Below are the list of questions with links to their solutions:
 
-1. [Create a simple HTML form and accept the user name and display the name through PHP echo statement.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/01)
+1. [Create a simple HTML form and accept the user name and display the name through PHP echo statement.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/01_simple_html_form)
 2. [Write a PHP script to demonstrate arithmetic operators, comparison operators, and logical operators.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/02_arithmetic_comparison_logical_operators)
 3. [Write a PHP Script to input marks, generate results, and display grades.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/03_input_marks_generate_results)
 4. [Write a PHP Script for addition of two 2x2 matrices.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/04_addition_of_matrices)
@@ -20,7 +20,7 @@ Welcome to the Vocational Web Development Practical for BCA final year. Below ar
 16. [Write a program to read customer information from the customer table and display all this information in table format on a PHP page.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/16_display_customer_info)
 17. [Design a web form in PHP to input values for the customer record and insert the record in the customer table as a tuple.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/17_insert_customer_record.php)
 18. [Design an "update" web form to edit the name of the customer to "Bob" with cust_no.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/18_update_customer_record)
-19. [Design a "delete" web form to delete records with cust_no=3.](19_delete_customer_record.php)
+19. [Design a "delete" web form to delete records with cust_no=3.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/19_delete_customer_record)
 20. [Create a dynamic website using PHP and MySQL for this all.](20_dynamic_website.php)
 
 ## Click [here](your_link_to_vocational_web_development_practical.md) to view the Vocational Web Development Practical.
