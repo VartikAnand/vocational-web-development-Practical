@@ -2,7 +2,7 @@
 Create a customer table in MySQL with cust_no, cust_name, item_purchased, and mob no, and insert 10 records into it.
 ## Code
 
-```html
+```SQL
 -- Create the customer table
 CREATE TABLE customer (
     cust_no INT PRIMARY KEY,
@@ -31,7 +31,7 @@ VALUES
 
 ### mysql query (Optionally)
 
-```sql 
+```SQL
 -- Create Customer table
 CREATE TABLE Customer (
     cust_no INT PRIMARY KEY,

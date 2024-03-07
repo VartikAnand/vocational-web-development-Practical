@@ -2,7 +2,7 @@
 Write a program to keep track of how many times a visitor has loaded the page.
 ## Code
 
-```html
+```PHP
 <?php
 // Initialize the counter variable
 $counter = 0;

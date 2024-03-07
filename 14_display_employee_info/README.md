@@ -6,7 +6,7 @@ Create EMP table with emp_no, emp_name, designation, and salary. Write a program
 ## Code
 
 ### index.php
-```html
+```PHP
  <html lang="en">
 <head>
     <style>
@@ -71,7 +71,7 @@ mysqli_close($conn);
 
 ## Mysql Query (OPTIONAL)
 
-```sql
+```SQL
 
 CREATE TABLE EMP (
     emp_no INT PRIMARY KEY,

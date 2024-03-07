@@ -3,7 +3,7 @@
 
 ## Code
 ### index.php
-```html
+```PHP
 <html lang="en">
 
 <body>

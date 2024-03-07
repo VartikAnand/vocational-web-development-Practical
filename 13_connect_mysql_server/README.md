@@ -3,7 +3,7 @@ Write a PHP script to connect the MySQL server from your website
 
 ## Code
 
-```html
+```PHP
 
 
 <?php

@@ -2,7 +2,7 @@
 Write PHP script to demonstrate exceptional handling.
 ## Code
 
-```html
+```PHP
 <?php
 
 // Function to simulate a division operation
