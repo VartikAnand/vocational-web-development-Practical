@@ -1,5 +1,5 @@
 # Aim
-
+Create a dynamic website using PHP and MySQL for this all
 ## Code
 ### Index.php
 ```PHP

@@ -1,3 +1,4 @@
+<!-- Create a dynamic website using PHP and MySQL for this all -->
 <?php
 $conn = mysqli_connect('localhost', 'root', '', 'vartikdb');
 

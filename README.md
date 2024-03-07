@@ -1,7 +1,13 @@
+
+
+![Banner](web-practical.png)
+
 # Vocational Web Development Practical for BCA Final Year
 
+```PHP
 Welcome to the Vocational Web Development Practical for BCA final year. Below are the list of questions with links to their solutions:
 
+```
 1. [Create a simple HTML form and accept the user name and display the name through PHP echo statement.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/01_simple_html_form)
 2. [Write a PHP script to demonstrate arithmetic operators, comparison operators, and logical operators.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/02_arithmetic_comparison_logical_operators)
 3. [Write a PHP Script to input marks, generate results, and display grades.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/03_input_marks_generate_results)
@@ -21,8 +27,5 @@ Welcome to the Vocational Web Development Practical for BCA final year. Below ar
 17. [Design a web form in PHP to input values for the customer record and insert the record in the customer table as a tuple.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/17_insert_customer_record.php)
 18. [Design an "update" web form to edit the name of the customer to "Bob" with cust_no.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/18_update_customer_record)
 19. [Design a "delete" web form to delete records with cust_no=3.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/19_delete_customer_record)
-20. [Create a dynamic website using PHP and MySQL for this all.](20_dynamic_website.php)
+20. [Create a dynamic website using PHP and MySQL for this all.](https://github.com/VartikAnand/vocational-web-development-Practical/tree/main/20_dynamic_website)
 
-## Click [here](your_link_to_vocational_web_development_practical.md) to view the Vocational Web Development Practical.
-
-![Banner](a.png)
